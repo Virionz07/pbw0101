@@ -13,12 +13,12 @@ export default function Home() {
           </p>
           <p>
             URL Repo :{" "}
-            <a href="https://github.com/Virionz07/pbw0101.git">
+            <a href="https://github.com/Virionz07/pbw0101.git" rel ="noreferrer" target="blank">
               {" "}
               https://github.com/Virionz07/pbw0101.git{" "}
             </a>
           </p>
-          <p>TIME : 2026-09-22 10.42</p>
+          <p>TIME : 2026-09-23 10.52</p>
         </div>
       </main>
     </div>
